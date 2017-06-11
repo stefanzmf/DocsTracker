@@ -1,0 +1,14 @@
+#userPanel {
+  font-size: 0.6em;
+  color: #3F5765;
+  text-align: right;
+  padding: 10px;
+}
+  #userPanel p {
+    margin: 0;
+  }
+  #userPanel a {
+    display: block;
+    color: #3F5765;
+    text-decoration: underline;
+  }

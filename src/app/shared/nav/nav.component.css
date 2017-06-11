@@ -1,0 +1,21 @@
+#primaryNav {
+  padding: 20px 0;
+}
+
+  #primaryNav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #primaryNav a {
+    text-decoration: none;
+    color: #7E8AA2;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 0.8em;
+  }
+
