@@ -8,11 +8,13 @@ import { DocumentsModule } from './documents/documents.module';
 import { MembersModule } from './members/members.module';
 
 import { AppComponent } from './app.component';
+import { UserComponent } from './app/control-panel/user/user.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,
